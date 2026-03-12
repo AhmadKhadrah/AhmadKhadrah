@@ -5,6 +5,7 @@
 
 
 
+![Technology Pitch Deck](https://github.com/user-attachments/assets/66e428e8-1ec8-42ab-9e07-507529c49931)
 
 </div>
 
