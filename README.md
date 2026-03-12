@@ -1,7 +1,7 @@
 <div align="center" width="50">
-<div style="width:50%">
-![Technology Pitch Deck](https://github.com/user-attachments/assets/66e428e8-1ec8-42ab-9e07-507529c49931)
-</div>
+
+<img src="https://github.com/user-attachments/assets/66e428e8-1ec8-42ab-9e07-507529c49931" width="25%" alt="Technology Pitch Deck">
+
 </div>
 
 <hr></hr>
