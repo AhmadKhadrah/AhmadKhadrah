@@ -51,7 +51,7 @@
 
 public class FullStackDeveloper
 {
-    public string Name => "YOUR NAME";
+    public string Name => "Ahmad Khadrah";
     public string Role => "Full Stack Developer";
     
     public Dictionary<string, string[]> TechStack = new()
