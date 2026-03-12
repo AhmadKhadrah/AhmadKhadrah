@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://github.com/user-attachments/assets/66e428e8-1ec8-42ab-9e07-507529c49931" width="25%" alt="Technology Pitch Deck">
+<img src="https://github.com/user-attachments/assets/66e428e8-1ec8-42ab-9e07-507529c49931" width="50%" alt="Technology Pitch Deck">
 
 </div>
 
