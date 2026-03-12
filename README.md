@@ -8,7 +8,7 @@ I love to talk about trending ⚡ technology ⚡, I have a huge attraction on �
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
 
 
-[![moshfiqrony's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9418800)](https://stackoverflow.com/users/9418800/moshfiqrony)
+
 
 
 # Read my recent blog
