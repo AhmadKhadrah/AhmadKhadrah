@@ -1,11 +1,11 @@
 <div align="center" width="50">
 
-<img src="https://github.com/user-attachments/assets/66e428e8-1ec8-42ab-9e07-507529c49931" width="50%" alt="Technology Pitch Deck">
+<img width="1536" height="1024" alt="banner Git" src="https://github.com/user-attachments/assets/1fe3a1e2-f770-47e0-b068-70882a7db330" />
 
 </div>
 
 <hr></hr>
-<img width="1536" height="1024" alt="banner Git" src="https://github.com/user-attachments/assets/1fe3a1e2-f770-47e0-b068-70882a7db330" />
+
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tech%20Stack%20%26%20Tools-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
