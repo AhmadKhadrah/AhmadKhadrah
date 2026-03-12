@@ -5,10 +5,7 @@
 
 
 
-![Totals Hits](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=512BD4&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR_USERNAME&count_bg=%23512BD4&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![linkedin badge](https://img.shields.io/badge/YOUR_NAME-grey?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![telegram badge](https://img.shields.io/badge/@YOUR_TELEGRAM-grey?style=flat&logo=telegram)](YOUR_TELEGRAM_URL) <br>
+
 </div>
 
 <hr></hr>
