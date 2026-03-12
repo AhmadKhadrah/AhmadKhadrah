@@ -1,6 +1,11 @@
-<div align="center" width="50">
-
-<img width="1536" height="1024" alt="banner Git" src="https://github.com/user-attachments/assets/1fe3a1e2-f770-47e0-b068-70882a7db330" />
+<div align="center">
+  <h1 style="font-size: 3.5em; margin-bottom: 5px; font-weight: 800;">
+    ⚡ Ahmad Khadrah
+  </h1>
+  <h2 style="font-size: 2em; color: #512BD4; margin-top: 0; font-weight: 600;">
+    Full Stack Developer
+  </h2>
+</div>
 
 </div>
 
@@ -35,47 +40,36 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
-```csharp
-// My Development Philosophy & Stack
 
-public class FullStackDeveloper
-{
-    public string Name => "Ahmad Khadrah";
-    public string Role => "Full Stack Developer";
-    
-    public Dictionary<string, string[]> TechStack = new()
-    {
-        ["Backend"] = new[] 
-        { 
-            ".NET 8+", "ASP.NET Core", "Web API", "Blazor", "MVC",
-            "Entity Framework Core", "ABP Framework", "LINQ" 
-        },
-        ["Frontend"] = new[] 
-        { 
-            "Angular", "React JS", "Stencil.js", "TypeScript",
-            "HTML5", "CSS3", "Bootstrap", "Tailwind" 
-        },
-        ["Database"] = new[] 
-        { 
-            "Microsoft SQL Server", "MySQL", "Data Modeling",
-            "Query Optimization", "Performance Tuning" 
-        },
-        ["Architecture"] = new[] 
-        { 
-            "Microservices", "REST API", "Clean Architecture",
-            "Domain Driven Design", "Design Patterns" 
-        },
-        ["Security"] = new[] 
-        { 
-            "ASP.NET Core Identity", "OAuth 2.0", "OpenID Connect",
-            "IdentityServer4", "JWT", "API Gateway Security" 
-        },
-        ["DevOps & Tools"] = new[] 
-        { 
-            "Docker", "RabbitMQ", "Redis", "Azure DevOps",
-            "CI/CD Pipelines", "Git", "Agile/Scrum" 
-        }
-    };
 
-    public string CurrentFocus => "Building scalable enterprise solutions with .NET 8 & Microservices";
-}
+
+<!-- Quick Stats Badges -->
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/github/followers/AhmadKhadrah?label=Followers&style=social" alt="GitHub followers"/>
+    <img src="https://img.shields.io/github/stars/AhmadKhadrah?label=Stars&style=social" alt="GitHub stars"/>
+    <img src="https://komarev.com/ghpvc/?username=AhmadKhadrah&color=512BD4&style=flat-square&label=Profile+Views" alt="Profile views"/>
+  </p>
+</div>
+
+<!-- Main Stats Section -->
+<div align="center">
+  <h3>📊 Development Metrics</h3>
+  
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=AhmadKhadrah&show_icons=true&theme=nord&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub+Stats" alt="GitHub Stats" width="100%"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadKhadrah&layout=compact&theme=nord&hide_border=true&langs_count=8&custom_title=Most+Used+Languages" alt="Top Languages" width="100%"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadKhadrah&theme=nord&hide_border=true" alt="GitHub Streak" width="85%"/>
+      </td>
+    </tr>
+  </table>
+  
+
